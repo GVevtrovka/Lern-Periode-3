@@ -23,7 +23,7 @@ Zum ehrlich sein war ich heute etwas drunter und drüber mit meinem Hirn und sch
 
 - [x] Das Generieren einer random-String möglich machen mithilfe von String Index.
 - [ ] Das Fenster ein wenig redesignen inklusive dem Hinzufügen einer Input-Textbox, sowie dem Hinzufügen eines Hintergrudnes.
-- [ ] Copy to Clipboard-Funktion hinzufügen (System.Windows.Forms.Clipboard.SetText(...)).
+- [ ] Copy to Clipboard-Funktion hinzufügen (`System.Windows.Forms.Clipboard.SetText(...)`).
 - [ ] Man kann angeben, ob man Sonderzeichen, Gross- Kleinbuchstaben oder Zahlen im Passwort möchte. 
 
 

@@ -26,8 +26,8 @@ Zum ehrlich sein war ich heute etwas drunter und drüber mit meinem Hirn und sch
 - [x] Copy to Clipboard-Funktion hinzufügen (`System.Windows.Forms.Clipboard.SetText(...)`).
 - [ ] Man kann angeben, ob man Sonderzeichen, Gross- Kleinbuchstaben oder Zahlen im Passwort möchte. 
 
-
-
+### Rückblick
+Ich hatte am Schluss noch etwas sehr dummes angestellt, weshalb ich dieses vorgezogen hatte und noch keine Ziele gemacht hatte. Ich werde dies nonch machen.
 
 
 

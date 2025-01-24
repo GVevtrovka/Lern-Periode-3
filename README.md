@@ -19,7 +19,7 @@ Dies war heute die Recherche nach dem Benötigten Wissen dazu, wie man random St
 ### Rückblick:
 Zum ehrlich sein war ich heute etwas drunter und drüber mit meinem Hirn und schaffte es somit nicht mal herauszufinden, wie ich eine Random String generiere (Für Passwortgenerator).
 
-## 17.1
+## 17.01.2025
 
 - [x] Das Generieren einer random-String möglich machen mithilfe von String Index.
 - [x] Das Fenster ein wenig redesignen inklusive dem Hinzufügen einer Input-Textbox, sowie dem Hinzufügen eines Hintergrudnes.
@@ -29,6 +29,10 @@ Zum ehrlich sein war ich heute etwas drunter und drüber mit meinem Hirn und sch
 ### Rückblick
 Ich hatte am Schluss noch etwas sehr dummes angestellt, weshalb ich dieses vorgezogen hatte und noch keine Ziele gemacht hatte. Ich werde dies nonch machen.
 
+## 24.01.2025
+- [x] Ich habe den Ganzen Rechner Wiederhergestellt, wobei ich so einiges an Zeitbenötigte.
+- [x] Ich habe ein Problem mit Foreground Color gelöst, wobei die Lösung ganz simpel eine Rich Text Box war.
+- [ ] Ich arbeite nun noch an der Multiple Choice Wahl, wobei ich warscheinlich nicht fertig werde.
 
 
 
